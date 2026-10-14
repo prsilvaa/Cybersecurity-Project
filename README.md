@@ -1,6 +1,3 @@
-# Cybersecurity-Project
-# Cybersecurity Assessment 
-
 <h1><a href="https://github.com/prsilvaa/Cybersecurity-Project">Cybersecurity Assessment Tool</a></h1>
 
 <h2>Project Objective</h2>

@@ -1,8 +1,8 @@
-<h1><a href="https://github.com/prsilvaa/Cybersecurity-Project">NetWise — Cybersecurity Assessment Tool</a></h1>
+<h1><a href="https://github.com/prsilvaa/Cybersecurity-Project">Cybersecurity Assessment Tool</a></h1>
 
 <h2>Project Objective</h2>
 
-<p>Develop NetWise, a user-friendly cybersecurity website designed to help home users and non-technical individuals understand their digital security and identify potential weaknesses in their devices. The platform brings together a range of cybersecurity tools, presenting findings through clear risk indicators and practical recommendations without requiring specialist technical knowledge.</p>
+<p>Develop a user-friendly cybersecurity website designed to help home users and non-technical individuals understand their digital security and identify potential weaknesses in their devices. The platform brings together a range of cybersecurity tools, presenting findings through clear risk indicators and practical recommendations without requiring specialist technical knowledge.</p>
 
 <h2>My Role and Responsibilities</h2>
 

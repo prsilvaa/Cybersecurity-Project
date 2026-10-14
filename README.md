@@ -64,7 +64,7 @@
 
 <div align="center">
     <h3>Website Roadmap</h3>
-    <img src="website_roadmap.png" alt="NetWise Website Roadmap" height="80%" width="80%">
+    <img src="website_map.png" alt="NetWise Website Roadmap" height="80%" width="80%">
     <p>This image shows the structure and main features of the Cybersecurity website.</p>
 </div>
 

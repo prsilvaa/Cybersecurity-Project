@@ -1,4 +1,4 @@
-<h1><a href="https://github.com/prsilvaa/Cybersecurity-Project">Cybersecurity Assessment Tool</a></h1>
+<h1><a href="https://github.com/prsilvaa/Cybersecurity-Project">Cybersecurity Tool</a></h1>
 
 <h2>Project Objective</h2>
 
@@ -42,7 +42,6 @@
     <li>Device vulnerability assessment</li>
     <li>Operating system security analysis</li>
     <li>Rule-based risk assessment</li>
-    <li>Backend development and API integration</li>
     <li>Automated security reporting</li>
     <li>Requirements prioritisation and project planning</li>
     <li>Problem-solving, testing, and debugging</li>
@@ -51,7 +50,7 @@
 
 <h2>Project Outcome</h2>
 
-<p>NetWise delivered a centralised cybersecurity website designed to make basic security assessments more accessible to home users and non-technical individuals. The platform integrated multiple tools, including network scanning, password security checks, phishing awareness activities, and device vulnerability assessment.</p>
+<p>As a group we delivered a centralised cybersecurity website designed to make basic security assessments more accessible to home users and non-technical individuals. The platform integrated multiple tools, including network scanning, password security checks, phishing awareness activities, and device vulnerability assessment.</p>
 
 <p>My main technical contribution was developing the device vulnerability assessment tool, which collects operating system information, checks firewall and antivirus status where supported, calculates a rule-based risk level, and generates a report with security recommendations. As Project Manager, I also supported team coordination, task management, and delivery throughout the project lifecycle.</p>
 

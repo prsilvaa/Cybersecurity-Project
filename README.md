@@ -21,8 +21,6 @@
     <li><strong>Flask</strong> – Connected the website interface to the backend security tools through API endpoints.</li>
     <li><strong>Operating System Libraries</strong> – Collected operating system information and supported platform-specific security checks.</li>
     <li><strong>Subprocess</strong> – Executed operating system commands to retrieve firewall and antivirus status where supported.</li>
-    <li><strong>JSON</strong> – Transferred structured assessment results between the backend and website.</li>
-    <li><strong>HTML, CSS and JavaScript</strong> – Supported the website interface and presentation of security information.</li>
     <li><strong>P3 Express and MoSCoW</strong> – Supported project management, task prioritisation, and requirements planning.</li>
 </ul>
 

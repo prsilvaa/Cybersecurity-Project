@@ -1,5 +1,5 @@
 # Cybersecurity-Project
-# Netwise — Cybersecurity Assessment and AI Investigation Platform
+# Cybersecurity Assessment 
 
 <h1><a href="https://github.com/prsilvaa/Cybersecurity-Project">Cybersecurity Assessment Tool</a></h1>
 

@@ -57,7 +57,7 @@
 
 <h2>Ethical and Responsible Use</h2>
 
-<p>NetWise was designed to support authorised security assessments and improve cybersecurity awareness. The platform focuses on basic security checks and educational recommendations rather than intrusive testing or exploitation.</p>
+<p>This was a group project developed for the university. The platform was designed to support authorised security assessments and improve cybersecurity awareness. It focuses on basic security checks and educational recommendations rather than intrusive testing or exploitation. No user data was stored, and once the report was generated, users received the results and recommendations on how to improve their security.</p>
 
 <h2>Project Images</h2>
 

@@ -2,7 +2,7 @@
 
 <h2>Project Objective</h2>
 
-<p>Develop a user-friendly cybersecurity website designed to help home users and non-technical individuals understand their digital security and identify potential weaknesses in their devices. The platform brings together a range of cybersecurity tools, presenting findings through clear risk indicators and practical recommendations without requiring specialist technical knowledge.</p>
+<p>I co-created the idea for this project with three friends as part of a university group project. We wanted to focus on a practical cybersecurity project rather than software development alone, as the other available project options were primarily software-focused. Our goal was to develop a user-friendly cybersecurity website to help home users and non-technical individuals understand their digital security, identify potential weaknesses in their devices, and receive clear risk indicators and practical recommendations.</p>
 
 <h2>My Role and Responsibilities</h2>
 

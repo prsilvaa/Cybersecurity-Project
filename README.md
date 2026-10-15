@@ -11,7 +11,6 @@
     <li><strong>Vulnerability Tool Developer</strong> – Developed the Python-based device vulnerability assessment tool to collect operating system information and check firewall and antivirus status.</li>
     <li><strong>Risk Assessment</strong> – Implemented rule-based risk classification to categorise device security as Low, Medium, or High risk based on the assessment results.</li>
     <li><strong>Report Generation</strong> – Developed automated report generation to present findings and provide practical security recommendations in understandable language.</li>
-    <li><strong>Backend Integration</strong> – Connected the vulnerability assessment functionality to the Flask backend so the website could request checks and display the results.</li>
 </ul>
 
 <h2>Tools and Technologies Used</h2>
